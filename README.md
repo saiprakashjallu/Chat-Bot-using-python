@@ -1,5 +1,5 @@
 # Chat-Bot-using-python
-This is an Retrival-based chatbot, uses chatterbot library in python.
+This is an Retrival-based chatbot, uses chatterbot library in python.\n
 
 #Building a Chatbot using Chatterbot
 Installation commands on cmd:
